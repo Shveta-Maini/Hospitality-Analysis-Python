@@ -26,7 +26,7 @@ Atliq Grands is experiencing a decline in revenue and market share due to increa
 
 - 🐍 Python (Jupyter Notebook) – Data analysis
 - 📊 Pandas – Data manipulation
-- 📉 Matplotlib & Seaborn – Data visualization
+- 📉 Matplotlib – Data visualization
 - 🎨 Canva – Presentation
 
 
@@ -58,8 +58,6 @@ Ensuring data quality was a critical step in the analysis. This phase included:
 
 - **City Performance**: Delhi leads in occupancy (~61%), followed by Hyderabad, while Bangalore shows relatively lower performance (~56%).
 
-- **Revenue Leaders**: Mumbai and Delhi are the top contributors to overall revenue.
-
 - **Booking Platforms**: Third-party platforms generate a higher share of bookings compared to direct channels, impacting profit margins due to commissions.
 
 - **Weekend Trends**: Occupancy rates are consistently higher on weekends, highlighting opportunities for dynamic pricing and targeted promotions.
@@ -80,7 +78,7 @@ Based on the analysis, the following data-driven recommendations are proposed to
   
 - **Expand in High-Performing Markets**: Invest in cities like Delhi, which show consistently high occupancy, to capitalize on strong demand.
 
-## 📎 Link
+
 
 
 
