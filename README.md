@@ -78,6 +78,10 @@ Based on the analysis, the following data-driven recommendations are proposed to
   
 - **Expand in High-Performing Markets**: Invest in cities like Delhi, which show consistently high occupancy, to capitalize on strong demand.
 
+ ## 📎 Link
+
+### 💼 [Linkedin Post](https://www.linkedin.com/posts/shveta-maini_pythonproject-codebasicsteam-hospitalityindustry-ugcPost-7454372684655792128-bA_N?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZzviYBaoS8w9o7cPkOgTL26BLpYMkRRkM) 
+
 
 
 
